@@ -1,0 +1,56 @@
+# Compiled bytecode
+*.class
+*.o
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Javadoc
+javadoc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+*.xml
+*.ipr
+*.iws
+
+# VCS files
+.git
+.svn
+*.tmproj
+*.sln
+*.suo
+*.user
+*.vssscc
+*.vspscc
+
+# IntelliJ IDEA
+out/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# NetBeans
+nbproject/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Miscellaneous
+*.log
+*.cache
+*.swp
+*~
